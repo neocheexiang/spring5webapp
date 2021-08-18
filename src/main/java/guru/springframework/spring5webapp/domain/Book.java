@@ -77,8 +77,6 @@ public class Book {
                 "id=" + id +
                 ", title='" + title + '\'' +
                 ", isbn='" + isbn + '\'' +
-                ", publisher=" + publisher.toString() +
-                ", authors=" + authors.toString() +
                 '}';
     }
 
